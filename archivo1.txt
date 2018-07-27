@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 HOLAAAAAAAAAAAAAA!!!!!!
 
 como estas
+=======
+HOLAAAAAAAAAAAAAA!
+>>>>>>> 5f29a5daf34a07d8a80e8a198870c3e7feb4f071
